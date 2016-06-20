@@ -1,0 +1,3 @@
+# MiniCacheManager
+
+this is minicachemanager
